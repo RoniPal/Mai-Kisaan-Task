@@ -1,3 +1,8 @@
+# App Download 
+link: https://drive.google.com/file/d/1_r7lMnf1bcUG5CzQnHaaYYjnQlLCiQ0L/view?usp=drive_link
+
+download and install with virus scan in your android phone.
+
 # Firebase 
 link : https://console.firebase.google.com/u/0/project/mai-kisaan/authentication/users
 Create a Email & Password Authentication
