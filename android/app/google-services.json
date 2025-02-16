@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362903418458",
+    "project_id": "mai-kisaan",
+    "storage_bucket": "mai-kisaan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362903418458:android:3ee78055764958c1214a63",
+        "android_client_info": {
+          "package_name": "com.maikisaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEpYFeeFVSD83Ez8wP9k40ItNASyfloA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
