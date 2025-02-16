@@ -1,3 +1,38 @@
+# Firebase 
+link : https://console.firebase.google.com/u/0/project/mai-kisaan/authentication/users
+Create a Email & Password Authentication
+
+Create firebaseConfig.js 
+- content in the file is =>
+/*
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
+};
+*/
+
+# Install Firebase pakages
+"@react-native-async-storage/async-storage": "^1.24.0",  // this is for locaaly login session store
+    "@react-native-firebase/app": "^21.10.0",
+    "@react-native-firebase/auth": "^21.10.0"
+
+
+# Details of the App
+This React Native app is built with best practices and includes additional bonus features to make it stand out:
+
+✅ Firebase Authentication (Email/Password Login & Registration)
+✅ Persistent Login (Users remain logged in after closing the app)
+✅ Infinite Scrolling & Pagination (Efficiently loads API data)
+✅ Pull-to-Refresh (Users can swipe down to refresh content)
+✅ Logout Functionality (Available on all pages)
+
+
+# How to run app in emulator
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
